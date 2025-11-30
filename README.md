@@ -1,6 +1,6 @@
 # 🏠 Wireframes - Página Home (Desktop e Mobile)
 
-Este repositório apresenta os **wireframes da página Home** de um site, desenvolvidos no **Figma** nas versões **Desktop** e **Mobile**.  
+Este repositório apresenta os **wireframes da página Home, catalogo e eventos** de um site, desenvolvidos no **Figma** nas versões **Desktop** e **Mobile**.  
 O objetivo é demonstrar a estrutura inicial, organização dos elementos e hierarquia visual antes da fase de prototipagem e desenvolvimento.
 
 ---
@@ -12,6 +12,19 @@ O objetivo é demonstrar a estrutura inicial, organização dos elementos e hier
 
 ### 📱 Versão Mobile
 ![Wireframe Mobile](https://github.com/matheusbezerrasantos2015-hash/Projetos-Wireframes/blob/main/Wireframes/Mobile%20-%201%20-%20home.png)
+
+### 💻 Versão Desktop
+![Wireframe Desktop](https://github.com/matheusbezerrasantos2015-hash/Projetos-Wireframes/blob/main/Wireframes/Desktop%20-%202%20-%20Cat%C3%A1logo.png)
+
+### 📱 Versão Mobile
+![Wireframe Mobile](https://github.com/matheusbezerrasantos2015-hash/Projetos-Wireframes/blob/main/Wireframes/Mobile%20-%202%20-%20Cat%C3%A1logo.png)
+
+### 💻 Versão Desktop
+![Wireframe Desktop](https://github.com/matheusbezerrasantos2015-hash/Projetos-Wireframes/blob/main/Wireframes/Desktop%20-%204%20-%20eventos.png)
+
+### 📱 Versão Mobile
+![Wireframe Mobile](https://github.com/matheusbezerrasantos2015-hash/Projetos-Wireframes/blob/main/Wireframes/Mobile%20-%205%20-%20eventos.png)
+
 
 ---
 
